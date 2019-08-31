@@ -2,15 +2,7 @@
   "posts": [
    
  {"id": 1, 
-  "name": "John",
- "apellidop":"doe",
- "apellidom":"dude",
- "email":"jhon@gmail.com",
- "telefCel":"899993555",
- "descCV":"si",
- "nivelEduc":"Universitario", 
- "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},
-"ultEmpleador":{"empresa":"GTP","situacion":"Fin"}
+  "name": "John"
 }
  ],
   "profile": {
