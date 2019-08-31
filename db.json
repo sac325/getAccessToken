@@ -1,13 +1,11 @@
 {
-      "1": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "2": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "3": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "4": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "5": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "6": {name: "Zor",apellidop:"him",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "7": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "8": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "9": {name: "Alex",apellidop:"beyond",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "10": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
-      "11": {name: "John",apellidop:"doe",apellidom:"dude",email:"jhon@gmail.com",telefCel:"899993555",descCV:"si",nivelEduc:"Universitario", ultEmpleo:{titulo:"Programador",cargo:"Programador", tiempo: "7 años y 5 meses"},ultEmpleador:{empresa:"GTP",situacion:""}},
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
+}
