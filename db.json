@@ -7,7 +7,9 @@
  "email":"jhon@gmail.com",
  "telefCel":"899993555",
  "descCV":"si",
- "nivelEduc":"Universitario"
+ "nivelEduc":"Universitario", 
+ "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 anios y 5 meses"},
+
 } 
   ],
   "profile": {
