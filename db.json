@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "users": [
  {
   "firstName": "John",
   "lastName": "Smith",
@@ -29,7 +29,4 @@
   "spouse": null
 },
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
