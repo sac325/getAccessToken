@@ -1,32 +1,19 @@
 {
-  "users": [
- {
-  "firstName": "John",
-  "lastName": "Smith",
-  "isAlive": true,
-  "age": 27,
-  "address": {
-    "streetAddress": "21 2nd Street",
-    "city": "New York",
-    "state": "NY",
-    "postalCode": "10021-3100"
-  },
-  "phoneNumbers": [
-    {
-      "type": "home",
-      "number": "212 555-1234"
-    },
-    {
-      "type": "office",
-      "number": "646 555-4567"
-    },
-    {
-      "type": "mobile",
-      "number": "123 456-7890"
-    }
+  "users": 
+    [
+        {"id":"1", "name": "John","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"2", "name": "John","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"3", "name": "John","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"4", "name": "Zoe","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"5", "name": "John","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"6", "name": "Brian","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"7", "name": "Will","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"8", "name": "John","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}},
+        {"id":"9", "name": "Fake","apellidop":"doe","apellidom":"dude","email":"jhon@gmail.com","telefCel":"899993555","descCV":"si","nivelEduc":"Universitario", "ultEmpleo":{"titulo":"Programador","cargo":"Programador", "tiempo": "7 años y 5 meses"},"ultEmpleador":{"empresa":"GTP","situacion":""}}
+    ]
+  ,
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
   ],
-  "children": [],
-  "spouse": null
-},
-  ],
+  "profile": { "name": "typicode" }
 }
