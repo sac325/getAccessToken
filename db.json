@@ -1,4 +1,5 @@
 {
+  "buscadorJSON": {
   "paginaBuscadorNominado": {
       "numPaginaActual": 1,
       "numPaginasTotal": 2,
@@ -188,4 +189,5 @@
         ]
   },
   "totalPostulantesActivos": [12]
+}
 }
