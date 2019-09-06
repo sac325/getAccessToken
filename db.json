@@ -54,7 +54,7 @@
             "email": "jhon@gmail.com",
             "telefCel": "899993555",
             "descCV": "no",
-            "mostrarDatos": "si",
+            "mostrarDatos": "no",
             "nivelEduc": "Universitario",
             "ultEmpleo": {
               "titulo": "Programador",
