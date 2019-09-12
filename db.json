@@ -1,113 +1,210 @@
 {
-  "buscadorJSON": {
   "paginaNominado": {
-      "numPaginaActual": 2,
-      "numPaginasTotal": 2,
-      "numResultadosPorPagina": 10,
-      "numResultadosTotal": 12,
-      "resultados":[
-          {
-            "id": "1",
-            "nombre": "John",
-            "apellidop": "doe",
-            "apellidom": "dude",
-            "email": "jhon@gmail.com",
-            "telefCel": "899993555",
-            "descCV": "si",
-            "mostrarDatos": "si",
-            "nivelEduc": "Universitario",
-            "ultEmpleo": {
-              "titulo": "Programador",
-              "cargo": "Programador",
-              "tiempo": "7 años y 5 meses"
-            },
-            "ultEmpleador": {
-              "empresa": "GTP",
-              "situacion": "Activo"
-            }
-          },
-          {
-            "id": "2",
-            "nombre": "John",
-            "apellidop": "doe",
-            "apellidom": "dude",
-            "email": "jhon@gmail.com",
-            "telefCel": "899993555",
-            "descCV": "si",
-            "mostrarDatos": "si",
-            "nivelEduc": "Universitario",
-            "ultEmpleo": {
-              "titulo": "Programador",
-              "cargo": "Programador",
-              "tiempo": "7 años y 5 meses"
-            },
-            "ultEmpleador": {
-              "empresa": "GTP",
-              "situacion": "Activo"
-            }
-          },
-          {
-            "id": "3",
-            "nombre": "John",
-            "apellidop": "doe",
-            "apellidom": "dude",
-            "email": "jhon@gmail.com",
-            "telefCel": "899993555",
-            "descCV": "no",
-            "mostrarDatos": "no",
-            "nivelEduc": "Universitario",
-            "ultEmpleo": {
-              "titulo": "Programador",
-              "cargo": "Programador",
-              "tiempo": "7 años y 5 meses"
-            },
-            "ultEmpleador": {
-              "empresa": "GTP",
-              "situacion": "Inactivo"
-            }
-          },
-          {
-            "id": "4",
-            "nombre": "Zoe",
-            "apellidop": "doe",
-            "apellidom": "dude",
-            "email": "jhon@gmail.com",
-            "telefCel": "899993555",
-            "descCV": "si",
-            "mostrarDatos": "si",
-            "nivelEduc": "Universitario",
-            "ultEmpleo": {
-              "titulo": "Programador",
-              "cargo": "Programador",
-              "tiempo": "7 años y 5 meses"
-            },
-            "ultEmpleador": {
-              "empresa": "GTP",
-              "situacion": ""
-            }
-          },
-          {
-            "id": "5",
-            "nombre": "John",
-            "apellidop": "doe",
-            "apellidom": "dude",
-            "email": "jhon@gmail.com",
-            "telefCel": "899993555",
-            "descCV": "si",
-            "mostrarDatos": "si",
-            "nivelEduc": "Universitario",
-            "ultEmpleo": {
-              "titulo": "Programador",
-              "cargo": "Programador",
-              "tiempo": "7 años y 5 meses"
-            },
-            "ultEmpleador": {
-              "empresa": "GTP",
-              "situacion": ""
-            }
-          }
-        ]
-  },
-  "totalNominadoActivas": 12
-}
+    "numPaginaActual": 1,
+    "numPaginasTotal": 2,
+    "numResultadosPorPagina": 10,
+    "numResultadosTotal": 18,
+    "resultados": [
+      {
+        "id": 4117583,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "ALVILLE ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": true,
+        "nivelEduc": "Educación media completa",
+        "ultEmpleo": {
+          "titulo": "Operador de Sistema de Información de Contratos en Explotación (SICE) para Asesoría de Inspección Fiscal de Explotación del Sistema Norte Sur, Autopista Central. ",
+          "tiempo": "17 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Zañartu Ingenieros Consultores",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 4172573,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "ARIAS ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "Elaboración de presupuesto anual, control presupuestario, pago de honorarios y derechos sociales. Rendición de proyectos CORFO, GORE RM, INNOVA CORFO.",
+          "tiempo": "4 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Laboratoria Chile",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 4442671,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "Castillo",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": true,
+        "nivelEduc": "Educación superior Incompleta",
+        "ultEmpleo": {
+          "titulo": "Controlar la ruta de los vehículos de reparto, mantener informado a los centros de servicio autorizado de Apple con respecto al Stock local, los tiempos de avance de las piezas y partes que se importa",
+          "tiempo": "16 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Ingram Micro",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 4009135,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "CORTEZ ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Sin Educación formal",
+        "ultEmpleo": {
+          "titulo": "Analista de datos\r\nDesarrollo y mantención de bdd en sistema interno\r\nReporte y planificación \r\nMedición y creación de kpis\r\nSoporte a nivel nacional a clientes externos e internos",
+          "tiempo": "35 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Implementa Chile ",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 3973015,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "GARRIDO ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": true,
+        "nivelEduc": "Sin Educación formal",
+        "ultEmpleo": {
+          "titulo": "Análisis y Desarrollo de Aplicaciones (Web), Construcción de Flujos de Procesos, UML, Diagramas, Reportes y documentación para ambiente productivo",
+          "tiempo": "17 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "INGENIERIA INFORMATICA KIBERNUM S.A. BANCO CITI",
+          "situacionActual": "Desempleado con acceso a FCS"
+        }
+      },
+      {
+        "id": 4099464,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "HERRERA ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "- Encargada de acciones de marketing y generación de leads. Trabajar directamente con Microsoft Chile y agencia de publicidad.",
+          "tiempo": "4 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "geovictoria",
+          "situacionActual": "Ocupado"
+        }
+      },
+      {
+        "id": 4618029,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "MANZOR ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": true,
+        "nivelEduc": "Educación básica completa",
+        "ultEmpleo": {
+          "titulo": "Encargada de desarrollar programa para extracción de datos desde ambiente as400 lenguaje sqldb2, para ser disponibilizados en web para realizar traking a los pedidos de repuestos de Finning Chile",
+          "tiempo": "14 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Ilia",
+          "situacionActual": "Desempleado con acceso a FCS"
+        }
+      },
+      {
+        "id": 3894468,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "ORFALI ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Sin Educación formal",
+        "ultEmpleo": {
+          "titulo": "Consultor Tecnológico para proyectos con relación a Smartcities y proyectos de innovación, mejora continua y de misión crítica para la Municipalidad de Lo Barnechea ",
+          "tiempo": "3 años 0 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Municipalidad de Lo Barnechea",
+          "situacionActual": "Ocupado"
+        }
+      },
+      {
+        "id": 3894468,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "ORFALI ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": true,
+        "nivelEduc": "Sin Educación formal",
+        "ultEmpleo": {
+          "titulo": "Consultor Tecnológico para proyectos con relación a Smartcities y proyectos de innovación, mejora continua y de misión crítica para la Municipalidad de Lo Barnechea ",
+          "tiempo": "3 años 0 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Municipalidad de Lo Barnechea",
+          "situacionActual": "Ocupado"
+        }
+      },
+      {
+        "id": 3894468,
+        "nombre": "Juan Antonio",
+        "apellidop": "Pruebas",
+        "apellidom": "ORFALI ",
+        "email": "juanpablo.saldano@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Sin Educación formal",
+        "ultEmpleo": {
+          "titulo": "Consultor Tecnológico para proyectos con relación a Smartcities y proyectos de innovación, mejora continua y de misión crítica para la Municipalidad de Lo Barnechea Consultor Tecnológico para proyectos con relación a Smartcities y proyectos de innovación, mejora continua y de misión crítica para la Municipalidad de Lo Barnechea Consultor Tecnológico para proyectos con relación a Smartcities y proyectos de innovación, mejora continua y de misión crítica para la Municipalidad de Lo Barnechea Consultor Tecnológico para proyectos con relación a Smartcities y proyectos de innovación, mejora continua y de misión crítica para la Municipalidad de Lo Barnechea",
+          "tiempo": "3 años 0 meses."
+        },
+        "ultEmpleador": {
+          "empresa": "Municipalidad de Lo Barnechea",
+          "situacionActual": "Ocupado"
+        }
+      }
+    ]
+  }
 }
