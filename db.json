@@ -12,6 +12,7 @@
           "email": "juanpablo.saldano@altia.es",
           "telefCel": "998989898",
           "tieneDiscapacidad": false,
+          "mostrarDatos": 3,
           "nivelEduc": "Educación superior Completa",
           "ultEmpleo": {
             "titulo": "",
@@ -28,6 +29,7 @@
           "email": "juanpablo.saldano@altia.es",
           "telefCel": "998989898",
           "tieneDiscapacidad": false,
+          "mostrarDatos": 2,
           "nivelEduc": "Educación superior Completa",
           "ultEmpleo": {
             "titulo": "Mantener operativos los sistemas del banco security  y del Holding Security, ejecutar distintos procesos, labores de monitoreo  de servidores de redes y seguridad, gestión ",
@@ -44,6 +46,7 @@
           "email": "juanpablo.saldano@altia.es",
           "telefCel": "998989898",
           "tieneDiscapacidad": false,
+          "mostrarDatos": 1,
           "nivelEduc": "Educación superior Completa",
           "ultEmpleo": {
             "titulo": "soporte técnico en informática y en la parte de logística  trabajo en el área administrativa.",
@@ -60,6 +63,7 @@
           "email": "juanpablo.saldano@altia.es",
           "telefCel": "998989898",
           "tieneDiscapacidad": false,
+          "mostrarDatos": 0,
           "nivelEduc": "Educación superior Completa",
           "ultEmpleo": {
             "titulo": "Desarrollé e implementé la interfaz web y el motor de cálculo (en SQL y Oracle) del simulador de ahorro provisional voluntario (APV) del sitio web de Metlife, actualmente en uso, considerando múltiple",
