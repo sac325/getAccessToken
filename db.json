@@ -1,177 +1,193 @@
 {
   "data": {
-    "paginaNominado": {
-      "numPaginaActual": 1,
-      "numPaginasTotal": 3,
-      "numResultadosPorPagina": 10,
-      "numResultadosTotal": 26,
-      "resultados": [
-        {
-          "id": 5271956,
-          "nombreApellido": "Juan Antonio Pruebas ",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "mostrarDatos": 3,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "",
-            "tiempo": "2 año/s y 5 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "BRAS COPPER CHILE",
-            "situacionActual": "Desempleado con acceso a FCS"
-          }
+  "paginaNominado": {
+    "numPaginaActual": 1,
+    "numPaginasTotal": 2,
+    "mostrarMensajeNoResultados": false,
+    "numResultadosPorPagina": 10,
+    "numResultadosTotal": 11,
+    "resultados": [
+      {
+        "id": 5855109,
+        "nombreApellido": "ANA MARÍA MUÑOZ RAMÍREZ",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": null,
+        "ultEmpleo": {
+          "titulo": "Practica profesional en ingenieria en Informática como programadora de aplicaciones web",
+          "tiempo": "1 mes/es."
         },
-        {
-          "id": 3753676,
-          "nombreApellido": "Juan Antonio Pruebas ARAVENA ",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "mostrarDatos": 2,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "Mantener operativos los sistemas del banco security  y del Holding Security, ejecutar distintos procesos, labores de monitoreo  de servidores de redes y seguridad, gestión ",
-            "tiempo": "2 año/s y 9 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "NetProvider",
-            "situacionActual": "Ocupado"
-          }
-        },
-        {
-          "id": 4440356,
-          "nombreApellido": "Juan Antonio Pruebas blas",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "mostrarDatos": 1,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "soporte técnico en informática y en la parte de logística  trabajo en el área administrativa.",
-            "tiempo": "2 año/s y 11 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Master Martini Chile Spa",
-            "situacionActual": "Ocupado"
-          }
-        },
-        {
-          "id": 5221076,
-          "nombreApellido": "Juan Antonio Pruebas BOZO",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "mostrarDatos": 0,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "Desarrollé e implementé la interfaz web y el motor de cálculo (en SQL y Oracle) del simulador de ahorro provisional voluntario (APV) del sitio web de Metlife, actualmente en uso, considerando múltiple",
-            "tiempo": "8 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Bac Servicios Computacionales",
-            "situacionActual": "Desempleado"
-          }
-        },
-        {
-          "id": 4374120,
-          "nombreApellido": "Juan Antonio Pruebas BUENO ",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "nivelEduc": "Sin Educación formal",
-          "ultEmpleo": {
-            "titulo": "Prestación de servicio técnico esporádico, para solucionar problemas en conectividad de redes y mantenimiento de computadores.",
-            "tiempo": "3 año/s y 6 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Especialistas IT",
-            "situacionActual": "Ocupado"
-          }
-        },
-        {
-          "id": 3966490,
-          "nombreApellido": "Juan Antonio Pruebas BUSTAMANTE ",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "nivelEduc": "Educación media completa",
-          "ultEmpleo": {
-            "titulo": "Soporte de contingencias de los Portales Office banking y Portal Santander. ASP, SQL Server, Monitoreo de servidores, tareas programadas BATCH, Control-M, estadísticas, Motores de proceso.",
-            "tiempo": "8 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Stefanini",
-            "situacionActual": "Desempleado con acceso a FCS"
-          }
-        },
-        {
-          "id": 3972117,
-          "nombreApellido": "Juan Antonio Pruebas CABEZAS ",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "Durante 2 años, diseña, elabora y mantiene catálogo digital de la empresa www.feram.cl, con un total Apróx. de 10 mil productos online, mediante trabajo colaborativo con Product Managers. Luego lo sup",
-            "tiempo": "< 1 mes."
-          },
-          "ultEmpleador": {
-            "empresa": "Ferretería Amunátegui S.A.",
-            "situacionActual": "Desempleado"
-          }
-        },
-        {
-          "id": 4442192,
-          "nombreApellido": "Juan Antonio Pruebas Cardona",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "Experiencia en el módulo SAP SD, parametrización , BBP, manuales, capacitación a usuarios, soporte a usuarios, manejo módulo SAP mm",
-            "tiempo": "1 año/s y 9 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Explora Consulting SpA",
-            "situacionActual": "Desempleado"
-          }
-        },
-        {
-          "id": 4825271,
-          "nombreApellido": "Juan Antonio Pruebas CERDA",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "-\tPlanificar, organizar, implementar, supervisar y controlar la óptima ejecución en el área de operaciones de la empresa.-\tControlar la calidad, el costo y la eficiencia de los procesos logísticos.",
-            "tiempo": "6 año/s y 3 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Comercial Euroacero S.A.",
-            "situacionActual": "Ocupado"
-          }
-        },
-        {
-          "id": 4225340,
-          "nombreApellido": "Juan Antonio Pruebas DINAMARCA ",
-          "email": "juanpablo.saldano@altia.es",
-          "telefCel": "998989898",
-          "tieneDiscapacidad": false,
-          "nivelEduc": "Educación superior Completa",
-          "ultEmpleo": {
-            "titulo": "Asistente de laboratorio Ti. A cargo del funcionamiento de los laboratorios de las carreras ti y sus equipos. ",
-            "tiempo": "2 año/s y 1 mes/es."
-          },
-          "ultEmpleador": {
-            "empresa": "Instituto Profesional Aiep Spa. ",
-            "situacionActual": "Ocupado"
-          }
+        "ultEmpleador": {
+          "empresa": "CM Telecomunicaciones",
+          "situacionActual": "Desempleado"
         }
-      ]
-    },
-    "idBusqueda": "a75bbd21-af4f-4e23-bc00-5be49d9be51e"
+      },
+      {
+        "id": 4904056,
+        "nombreApellido": "GONZALO MAURICIO JELDRES ROZAS",
+        "email": "ANGELICA.PALTA@ALTIA.ES",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Magíster",
+        "ultEmpleo": {
+          "titulo": "Consultor Sap Senior  Abap, Portal, Webdynpro java abap, Po, Pi en clientes  en modalidad soporte y proyectos.",
+          "tiempo": "1 año/s y 7 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "Axity",
+          "situacionActual": "Desempleado con acceso a FCS"
+        }
+      },
+      {
+        "id": 6228089,
+        "nombreApellido": "JORGE ALBERTO GATICA LÓPEZ",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": null,
+        "ultEmpleo": {
+          "titulo": "Desarrollando aplicaciones web",
+          "tiempo": "4 año/s y 8 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "Empresas SB ",
+          "situacionActual": "Desempleado con acceso a FCS"
+        }
+      },
+      {
+        "id": 5530544,
+        "nombreApellido": "Juan Antonio Pruebas GÓMEZ",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": null,
+        "ultEmpleo": {
+          "titulo": "",
+          "tiempo": "1 año/s y 10 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "EDUCADEMIA SpA",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 4926421,
+        "nombreApellido": "Juan Antonio Pruebas Goncalves",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "",
+          "tiempo": "6 año/s y 10 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "Megasoft Computación",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 5080315,
+        "nombreApellido": "Juan Antonio Pruebas GONZÁLEZ",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "desarrollar una aplicación web para el control y gestión para el proveedor Itserv, aplicando el patrón de diseño MVC utilizando el Framework Codeigniter con el motor de base de datos Mysql.",
+          "tiempo": "3 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "Entel",
+          "situacionActual": "Busca Primer Trabajo"
+        }
+      },
+      {
+        "id": 5630591,
+        "nombreApellido": "Juan Antonio Pruebas HUGOT",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": null,
+        "ultEmpleo": {
+          "titulo": "",
+          "tiempo": "5 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "Audiomusica",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 5003266,
+        "nombreApellido": "Juan Antonio Pruebas MARAMBIO",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "Lideré la mesa de trabajo de Churn orientada a aumentar la Satisfacción de los clientes. En conjunto a las áreas de BI, TI, Posventa, Oferta generamos acciones creativas de blindajes que permitieron ",
+          "tiempo": "8 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "Telefonica",
+          "situacionActual": "Desempleado"
+        }
+      },
+      {
+        "id": 3959177,
+        "nombreApellido": "Juan Antonio Pruebas MARTÍNEZ ",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "PROGRAMADOR TRAINEE EN VISUAL 2010 UTILIZANDO MVC CON API REST,, SQL SERVER, ",
+          "tiempo": "11 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "GRUPO INTELLEGO",
+          "situacionActual": "Desempleado con acceso a FCS"
+        }
+      },
+      {
+        "id": 4923970,
+        "nombreApellido": "Juan Antonio Pruebas SANDOVAL",
+        "email": "angelica.palta@altia.es",
+        "telefCel": "998989898",
+        "descCV": true,
+        "mostrarDatos": true,
+        "tieneDiscapacidad": false,
+        "nivelEduc": "Educación superior Completa",
+        "ultEmpleo": {
+          "titulo": "Asistencia comercial para Red Femenina del Grupo COPESA en Medios Digitales.\r\nDiseñar estrategias de propuestas comerciales para los clientes claves del segmento, esto incluye cotizaciones y maquetas ",
+          "tiempo": "1 año/s y 10 mes/es."
+        },
+        "ultEmpleador": {
+          "empresa": "GRUPO COPESA",
+          "situacionActual": "Ocupado"
+        }
+      }
+    ]
   }
+}
 }
