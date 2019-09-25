@@ -9,9 +9,9 @@
     "resultados": [
       {
         "id": 5855109,
-        "nombreApellido": "ANA MARÍA MUÑOZ RAMÍREZ",
-        "email": "angelica.palta@altia.es",
-        "telefCel": "998989898",
+        "nombreApellido": null,
+        "email": null,
+        "telefCel": null,
         "descCV": true,
         "mostrarDatos": true,
         "tieneDiscapacidad": false,
@@ -35,12 +35,12 @@
         "tieneDiscapacidad": false,
         "nivelEduc": "Magíster",
         "ultEmpleo": {
-          "titulo": "Consultor Sap Senior  Abap, Portal, Webdynpro java abap, Po, Pi en clientes  en modalidad soporte y proyectos.",
-          "tiempo": "1 año/s y 7 mes/es."
+          "titulo": null,
+          "tiempo": null
         },
         "ultEmpleador": {
-          "empresa": "Axity",
-          "situacionActual": "Desempleado con acceso a FCS"
+          "empresa": null,
+          "situacionActual": null
         }
       },
       {
