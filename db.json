@@ -1,13 +1,8 @@
 {
-  "entities": [{
-    "rut": {
-      "base": 12490541,
-      "dv": "9"
-    },
-    "razonSocial": "SERVICIO DE IMPUESTOS INTERNOS",
-    "ip": "127.0.0.1",
-    "fechaAut": 1542631769955,
-    "error": null
-  }],
-  "error": null
+   "error": null,
+   "access_token": "BHMTBNKTPN09JYNOMVUTIFKZ2CJXJW8C",
+   "token_type": "bearer",
+   "expires_in": 99,
+   "refresh_token": "QF1LY17AT3MF6PL5S7FECGAEU5RVKS6G"
 }
+
